@@ -1,0 +1,5 @@
+import elAlambiqueViajero.*
+
+test "al presidente le gusta la yerba" {
+    assert.notThat(buenosAires.presidenteLeGustaYerba)
+}
